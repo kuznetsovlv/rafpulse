@@ -13,6 +13,8 @@
 
 A lightweight shared `requestAnimationFrame` loop for JavaScript.
 
+[Coverage report](https://kuznetsovlv.github.io/rafpulse/)
+
 `rafpulse` lets multiple animation consumers share a single animation-frame scheduler instead of creating and managing independent RAF loops.
 
 <p align="center">
