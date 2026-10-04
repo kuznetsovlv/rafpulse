@@ -1,5 +1,11 @@
 # rafpulse
 
+## 0.1.0
+
+### Minor Changes
+
+- 385c740: Created main functionality
+
 ## 0.0.4
 
 ### Patch Changes
