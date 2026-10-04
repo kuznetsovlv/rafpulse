@@ -1,6 +1,6 @@
 {
     "name": "rafpulse",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "packageManager": "pnpm@11.1.2",
     "description": "A lightweight shared requestAnimationFrame loop for JavaScript",
     "main": "index.js",
