@@ -1,5 +1,11 @@
 # rafpulse
 
+## 0.1.1
+
+### Patch Changes
+
+- f92521f: Added link to coverage
+
 ## 0.1.0
 
 ### Minor Changes
