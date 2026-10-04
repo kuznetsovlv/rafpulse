@@ -1,5 +1,12 @@
 # rafpulse
 
+## 0.0.4
+
+### Patch Changes
+
+- 3bf4dd9: registry url
+- 3bf4dd9: fixed publishing
+
 ## 0.0.3
 
 ### Patch Changes
