@@ -72,7 +72,7 @@ jobs:
             - name: Create release PR or publish
               uses: changesets/action@v1
               with:
-                  github-token: ${{ secrets.CHANGESETS_GITHUB_TOKEN }}
+                  github-token: ${{ github.token }}
                   commitMode: github-api
                   version: pnpm version-packages
                   publish: pnpm exec changeset publish
