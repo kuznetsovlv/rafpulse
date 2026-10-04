@@ -1,5 +1,11 @@
 # rafpulse
 
+## 0.0.3
+
+### Patch Changes
+
+- 9ac3333: fixed publishing
+
 ## 0.0.2
 
 ### Patch Changes
