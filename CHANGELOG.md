@@ -1,5 +1,12 @@
 # rafpulse
 
+## 0.1.2
+
+### Patch Changes
+
+- 5e83005: Added link to license
+- 5e83005: Added link to coverage
+
 ## 0.1.1
 
 ### Patch Changes
