@@ -13,6 +13,7 @@ permissions:
 
 jobs:
     quality-checks:
+        if: github.actor != 'github-actions[bot]'
         name: ${{ github.event_name == 'pull_request' && 'PR quality checks' || 'Branch quality checks' }}
         runs-on: ubuntu-latest
 
