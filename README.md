@@ -1,8 +1,32 @@
-# rafpulse
+<p align="center">
+  <picture>
+    <source
+      srcset="./logo/logo.png"
+    />
+    <img
+      src="./logo/logo.png"
+      alt="rafpulse"
+      width="760"
+    />
+  </picture>
+</p>
 
 A lightweight shared `requestAnimationFrame` loop for JavaScript.
 
 `rafpulse` lets multiple animation consumers share a single animation-frame scheduler instead of creating and managing independent RAF loops.
+
+<p align="center">
+  <picture>
+    <source
+      srcset="./logo/raf.png"
+    />
+    <img
+      src="./logo/raf.png"
+      alt="rafpulse mascot"
+      width="320"
+    />
+  </picture>
+</p>
 
 ```ts
 import {addSpice, start} from 'rafpulse';
@@ -232,3 +256,16 @@ It is intended primarily for modern browser environments.
 ## License
 
 MIT © Leonid Kuznetsov
+
+<p align="center">
+  <picture>
+    <source
+      srcset="./logo/raf.png"
+    />
+    <img
+      src="./logo/raf.png"
+      alt="rafpulse mascot"
+      width="320"
+    />
+  </picture>
+</p>
