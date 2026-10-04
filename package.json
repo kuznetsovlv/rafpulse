@@ -14,7 +14,7 @@
     "frame-loop",
     "scheduler"
   ],
-  "author": "",
+  "author": "Leonid Kuznetsov",
   "license": "MIT",
   "type": "module",
   "sideEffects": false,
