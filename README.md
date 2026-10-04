@@ -257,7 +257,7 @@ It is intended primarily for modern browser environments.
 
 ## License
 
-MIT © Leonid Kuznetsov
+[MIT © Leonid Kuznetsov](./LICENSE)
 
 <p align="center">
   <picture>
